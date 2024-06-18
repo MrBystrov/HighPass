@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Roboto";
+  src: local("Roboto Regular"),
+    url(../fonts/subset-Roboto-Regular.woff2) format(woff2),
+    url(../fonts/subset-Roboto-Regular.woff) format(woff);
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("Roboto Bold"),
+    url(../fonts/subset-Roboto-Bold.woff2) format(woff2),
+    url(../fonts/subset-Roboto-Bold.woff) format(woff);
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Firs Neue";
+  src: local("TT Firs Neue Regular"),
+    url(../fonts/subset-TTFirsNeueTrl-Regular.woff2) format(woff2),
+    url(../fonts/subset-TTFirsNeueTrl-Regular.woff) format(woff);
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Firs Neue";
+  src: local("TT Firs Neue Medium"),
+    url(../fonts/subset-TTFirsNeueTrl-Medium.woff2) format(woff2),
+    url(../fonts/subset-TTFirsNeueTrl-Medium.woff) format(woff);
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Firs Neue";
+  src: local("TT Firs Neue Bold"),
+    url(../fonts/subset-TTFirsNeueTrl-Bold.woff2) format(woff2),
+    url(../fonts/subset-TTFirsNeueTrl-Bold.woff) format(woff);
+  font-weight: 700;
+  font-display: swap;
+}
